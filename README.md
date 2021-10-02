@@ -4,6 +4,8 @@ In this project I created a web app that uses reactjs to **Financepeer**
 
 As a demonstration of my skills, I built an app that utilizes components to fetch data from an internal server, displays that data,introduces **routing** concepts, **authenticates** and **authorizes** users, and adds responsiveness to the website.
 
+**Code sand box** You can view the results of the project here without having to install anything https://codesandbox.io/s/financepeer-yrgcc
+
 ### Refer to image below:
 
 <br/>
